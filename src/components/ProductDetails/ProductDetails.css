@@ -1,0 +1,35 @@
+.product-detail {
+  text-align: center;
+  padding: 20px;
+}
+
+.detail-image {
+  width: 80%;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.sub-cards {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.sub-card {
+  width: 80px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.sub-image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.back-button {
+  margin-top: 20px;
+  text-decoration: none;
+  color: #007bff;
+}
